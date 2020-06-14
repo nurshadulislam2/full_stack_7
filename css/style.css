@@ -1,0 +1,40 @@
+.header{
+	min-height: 100px;
+	background: red;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.blog{
+	width: 65%;
+	margin-right: 5%;
+	float: left;
+	min-height: 400px;
+	background: green;
+}
+
+.contact{
+	width: 30%;
+	float: left;
+	min-height: 400px;
+	background: yellow;
+}
+
+.box{
+	width: 30%;
+	float: left;
+	background: #FFEBCD;
+	margin-right: 5%;
+	min-height: 300px;
+}
+
+.lastbox{
+	margin: 0;
+}
+
+.footer{
+	min-height: 70px;
+	background: blue;
+}
